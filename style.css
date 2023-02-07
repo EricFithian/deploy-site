@@ -2,10 +2,15 @@ body {
     background-color: blue;
 }
 
-h1 {
+#myID {
     color: white;
 }
 
 .orange {
     color: orange;
+    background-color: antiquewhite;
+}
+
+.large {
+    font-size: 2em;
 }
